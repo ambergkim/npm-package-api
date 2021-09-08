@@ -1,0 +1,5 @@
+django
+invoke
+black
+requests
+python-dateutil
